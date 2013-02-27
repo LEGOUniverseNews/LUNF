@@ -1,4 +1,4 @@
-
+/* CSS code taken from http://universe.lego.com/en-us/css/StyleSheets/jScrollPane.aspx */
 .jScrollPaneContainer {
 	position: relative;
 	overflow: hidden;

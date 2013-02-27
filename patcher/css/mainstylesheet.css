@@ -1,5 +1,6 @@
 html { text-align: left; overflow:hidden; }
-body { background-image: url(http://i49.servimg.com/u/f49/14/69/14/01/vzbjvm10.jpg);background-repeat: no-repeat; background-color: #15151a; margin: 0; padding: 0; overflow: hidden; font: normal 81.3%/1.25 Verdana, lucida, arial, helvetica, sans-serif; color: #fff; }
+/* Originally hosted at http://i49.servimg.com/u/f49/14/69/14/01/vzbjvm10.jpg */
+body { background-image: url(https://raw.github.com/rioforce/LUNF/gh-pages/patcher/images/notavailable.png);background-repeat: no-repeat; background-color: #15151a; margin: 0; padding: 0; overflow: hidden; font: normal 81.3%/1.25 Verdana, lucida, arial, helvetica, sans-serif; color: #fff; }
 img { float:left;  }
 #RegistrationContainer h1 { padding:15px 0 0 20px; color:#323231; float:left; }
 .reg-container { float:left; padding:0 0 0 40px; width:626px; clear:both; }
@@ -16,13 +17,13 @@ img { float:left;  }
 #scroll-pane ul { list-style-type:none }
 #scroll-pane ul li a { float:left; clear:both; border-bottom:0 }
 #RegistrationContainer { position: absolute; top: 0px; left: 0px}
-/* .regBg { width:666px; height:263px; background-image: url(http://cache.lego.com/universe/images/launcher/666x263bg.png); background-repeat: no-repeat } */
-.regBg { width:666px; height:263px; background-image: url(/images/666x263bg.png); background-repeat: no-repeat }
+/* Originally hosted at http://cache.lego.com/universe/images/launcher/666x263bg.png */
+.regBg { width:666px; height:263px; background-image: url(https://raw.github.com/rioforce/LUNF/gh-pages/patcher/images/bgimage.png); background-repeat: no-repeat }
 .regBg h1 {line-height: 25pt}
 #headlines ul { margin: 0; padding: 0; list-style-image: none; list-style-type: none; }
 #headlines ul li { }
-/* #headlines ul li a { display: inline-block; padding-right: 25px; background-image: url(http://cache.lego.com/universe/images/launcher/arrow.png); background-repeat: no-repeat; background-position: right center; } */
-#headlines ul li a { display: inline-block; padding-right: 25px; background-image: url(/images/arrow.png); background-repeat: no-repeat; background-position: right center; }
+/* Originally hosted at http://cache.lego.com/universe/images/launcher/arrow.png */
+#headlines ul li a { display: inline-block; padding-right: 25px; background-image: url(https://raw.github.com/rioforce/LUNF/gh-pages/patcher/images/arrow.png); background-repeat: no-repeat; background-position: right center; }
 #headlines ul li a:link, #headlines ul li a:visited { text-decoration: none; }
 #headlines ul li a:hover, #headlines ul li a:active { text-decoration: none; }
 #headlines ul li a span { height: 14px; display: block; margin: 4px 0 8px 0; color: #fff; }
@@ -32,4 +33,5 @@ img { float:left;  }
 	text-decoration: none;height: 14px; display: block; margin: 4px 0 8px 0; color: #fff;
 }
     .launcher {background-image: url();margin-top:12px;margin-left:25px;}
-    #header {background-image: url(http://cache.lego.com/upload/contentTemplating/UniverseGameLauncher/images/pic0A19294C5E60AC42458FEC06167C122E.png);}
+	/* Originally hosted at http://cache.lego.com/upload/contentTemplating/UniverseGameLauncher/images/pic0A19294C5E60AC42458FEC06167C122E.png */
+    #header {background-image: url(https://raw.github.com/rioforce/LUNF/gh-pages/patcher/images/edge.png);}
