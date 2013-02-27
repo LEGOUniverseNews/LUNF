@@ -175,6 +175,7 @@ height: 200px;
 }
 
 .launcher {
+	/* Or here? */
 	background-image: url();
 	margin-top:12px;
 	margin-left:25px;
