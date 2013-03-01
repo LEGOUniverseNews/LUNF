@@ -10,7 +10,7 @@ body {
 	margin: 0; 
 	padding: 0; 
 	overflow: hidden; 
-	font: normal 81.3%/1.25 Verdana, lucida, arial, helvetica, sans-serif; 
+	font: 11.45px Verdana, lucida, arial, helvetica, sans-serif; 
 	color: #fff;
 }
 img { 
@@ -18,9 +18,9 @@ img {
 }
 
 #RegistrationContainer h1 { 
-	padding:15px 0 0 20px; 
-	color:#323231; 
-	float:left; 
+	padding: 15px 0 0 20px; 
+	color: #323231; 
+	float: left; 
 }
 
 .reg-container { 
