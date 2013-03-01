@@ -8,7 +8,7 @@ height: 37.500em;
 position: relative; 
 padding: 3.125em; 
 /* Originally hosted at http://i13.servimg.com/u/f13/16/81/98/51/minifi10.png */
-background: url("https://raw.github.com/rioforce/LUNF/gh-pages/staffmembers/images/minifig.png") no-repeat right bottom; 
+background: #ffffff url("https://raw.github.com/rioforce/LUNF/gh-pages/staffmembers/images/minifig.png") no-repeat right bottom; 
 }
 
 #staff h2 { font-size:1.5em; border-bottom: 5px solid black; color: blue; }
