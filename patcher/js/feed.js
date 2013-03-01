@@ -111,7 +111,7 @@ window.onload=function(){
 })(jQuery);
 $(document).ready(function () {
 // Must. find. general and. (preferably) official. LEGO News. RSS. Feed!
-    $('#test').rssfeed('http://legouniversenews.wordpress.com/feed/', {
+    $('#test').rssfeed('http://feeds.feedburner.com/Brickjournal', {
         limit: 7
     });
 });
