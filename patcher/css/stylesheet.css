@@ -73,7 +73,8 @@ img {
 	width: 360px; 
 	float: right; 
 	clear: both; 
-	background-image: url(https://raw.github.com/rioforce/LUNF/gh-pages/patcher/images/edge.png);
+	/* background-image: url(https://raw.github.com/rioforce/LUNF/gh-pages/patcher/images/edge.png); */
+	background-image: url(https://raw.github.com/rioforce/LUNF/gh-pages/patcher/images/newslabel.png);
 	background-repeat: no-repeat; 
 	background-position: left bottom; 
 	margin-top: -5px; 
