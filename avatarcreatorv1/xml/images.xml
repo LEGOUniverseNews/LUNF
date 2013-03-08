@@ -13,7 +13,7 @@
 	<tabpadding>18</tabpadding>
   </configure>
   <bodyparts>
-    <head label="Head" optional="true" tabbed="true">
+    <head label="Head" optional="false" tabbed="true">
       <image image="images/avatar_new/head/Head_01.png" thumb="images/buttons_new/head/Head_front_01.png" />
 	  <image image="images/avatar_new/head/Head_02.png" thumb="images/buttons_new/head/Head_front_02.png" />
 	  <image image="images/avatar_new/head/Head_03.png" thumb="images/buttons_new/head/Head_front_03.png" />
@@ -37,7 +37,7 @@
 	  <image image="images/avatar_new/head/Head_21.png" thumb="images/buttons_new/head/Head_front_21.png" />
 	  <image image="images/avatar_new/head/Head_22.png" thumb="images/buttons_new/head/Head_front_22.png" />
     </head>
-	<torso label="Outfits" optional="true" tabbed="true">
+	<torso label="Outfits" optional="false" tabbed="true">
       <image image="images/avatar_new/torso/Torso_01.png" thumb="images/buttons_new/torso/Torso_front_01.png" />
 	  <image image="images/avatar_new/torso/Torso_02.png" thumb="images/buttons_new/torso/Torso_front_02.png" />
 	  <image image="images/avatar_new/torso/Torso_03.png" thumb="images/buttons_new/torso/Torso_front_03.png" />
@@ -63,7 +63,7 @@
 	  <image image="images/avatar_new/torso/Torso_23.png" thumb="images/buttons_new/torso/Torso_front_23.png" />
 	  <image image="images/avatar_new/torso/Torso_24.png" thumb="images/buttons_new/torso/Torso_front_24.png" />
     </torso>
-	<legs label="Legs" optional="true" tabbed="true">
+	<legs label="Legs" optional="false" tabbed="true">
       <image image="images/avatar_new/legs/Leg_01.png" thumb="images/buttons_new/legs/Legfront_01.png" />
 	  <image image="images/avatar_new/legs/Leg_02.png" thumb="images/buttons_new/legs/Legfront_02.png" />
 	  <image image="images/avatar_new/legs/Leg_03.png" thumb="images/buttons_new/legs/Legfront_03.png" />
