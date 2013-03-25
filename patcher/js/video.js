@@ -12,7 +12,7 @@ flashembed("example",
 		controlBarBackgroundColor:'0x000000',
 		initialScale: 'scale',
 		// LEGO Animation goes here (try to get the best quality and use various themes)
-		videoFile: 'http://cache.lego.com/r/city/-/media/Franchises/LEGO%20City/Movies/MiniMovies/F4V/ts.20130204T141454.LEGO_CITY_Mini_Movie_Museum_Heist_13_2m_HD_21969_1.flv'
+		videoFile: 'http://cache.lego.com/upload/contentTemplating/Starwars2Home2012MovieOverlay/otherfiles/downloadECAE2BC77D45B7DB7646A9F879B50D00.f4v'
                         
 	}} 
 );
