@@ -1,7 +1,7 @@
 flashembed("example", 
 		
 	{
-		src:'http://cache.lego.com/flash/VideoPlayer/versions/3.21/movieplayer_v.3.21.swf',
+		src:'http://www.lw7.de/flowplayer/FlowPlayerDark.swf',
 		width: 305, 
 		height: 240
 	},
