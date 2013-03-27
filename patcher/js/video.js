@@ -12,7 +12,7 @@ flashembed("example",
 		controlBarBackgroundColor:'0x000000',
 		initialScale: 'scale',
 		// LEGO Animation goes here (try to get the best quality and use various themes)
-		videoFile: 'http://cache.lego.com/upload/contentTemplating/Starwars2Home2012MovieOverlay/otherfiles/downloadECAE2BC77D45B7DB7646A9F879B50D00.f4v'
+		videoFile: 'http://cache.lego.com/r/city/-/media/Franchises/LEGO%20City/Movies/Designer%20Videos/MP4/ts.20121205T140622.Joe%20-%20Fire%20Truck.mp4'
                         
 	}} 
 );
