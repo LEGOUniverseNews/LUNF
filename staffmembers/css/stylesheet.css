@@ -15,7 +15,7 @@ background-color: #ffffff;
 
 #minifig { 
 position: relative; 
-left: 855px;
+left: 650px;
 top: 100px;
 }
 
@@ -23,7 +23,7 @@ top: 100px;
 #staff h2 { 
 font-size:1.5em; 
 border-bottom: 5px solid black; 
-color: #CADCEB; 
+color: #634CE1; 
 }
 
 .box {
