@@ -1,74 +1,52 @@
-/* /*-- CSS Code and Design by Hobino, le717, and rioforce --*/
+/*-- CSS Code and Design by Hobino, le717, and rioforce --*/
 /*-- px to em conversion by http://pxtoem.com/ using 16px as base px size. --*/
-
 /*-- Overall Styling Code --*/
 #staff { 
 margin: 3.125em auto; 
 width: 62.500em; 
 height: 37.500em; 
 position: relative; 
-padding: 3.125em;
-background-color: #ffffff; 
+padding: 3.125em; 
+/* Originally hosted at http://i13.servimg.com/u/f13/16/81/98/51/minifi10.png */
+background: #ffffff url("https://raw.github.com/rioforce/LUNF/gh-pages/staffmembers/images/minifig.png") no-repeat right bottom; 
 }
 
-/* Minifigure image */
-#minifig { 
-position: relative; 
-left: 40.625em;
-top: 6.250em;
-}
+#staff h2 { font-size:1.5em; border-bottom: 5px solid black; color: blue; }
 
-/* Staff Members header */
-#staff h2 { 
-font-size:1.5em; 
-border-bottom: 5px solid black; 
-color: #634CE1;
-}
-
-/* Shared Box Settings */
 .box {
-width: 8.500em;
-height: 8.500em;
+width: 12.500em;
+height: 12.500em;
 position: absolute;
-/* border: 0.438em solid #5E5E5E; */
-border: 0.438em solid #2B2B2B;
+border: 0.438em solid #5E5E5E;
 padding: 1.250em;
-border-radius: 1.500em;
+border-radius: 1.250em;
 font-size: 1em;
 font-weight: bold;
 text-align: center;
-/* color: blue; */
-/* box-shadow: 0.438em 0.438em 0.438em black; */
-color: #0415CD;
-box-shadow: 0.438em 0.438em 0.438em #F10509;
-/* box-shadow: 0.438em 0.438em 0.438em #7963E9; */
+color: blue;
+box-shadow: 0.438em 0.438em 0.438em black;
 top: 25%;
 }
 
 ul { text-align: left; }
 
 /*-- Link Stuff -- */
-a { color: black; text-decoration: none;}
-a:hover { color: #7058C0; text-decoration: underline; opacity: 0.8; }
+a { color: black; }
+a:hover { color: blue; }
 
-/* Box ID labels */
 h3 {
-width: 12.500em; 
-position: absolute; 
-/* color: #636363;  */
-color: #2B2B2B; 
-}
+width: 12.500em; position: absolute; color: #636363; }
 
-/* -- Individual Box Styling Code -- */
+/* -- Individual Styling Code -- */
 
-#admin { left: 3.250em; }
+#admin { left: 6.250em; }
 
-#adminh { left: 5.800em; }
+#adminh { left: 6.250em; }
 
-#mod { left: 19.000em; }
+#mod { left: 25.000em; }
 
-#modh { left: 19.200em; }
+#modh { left: 25.000em; }
 
-#retired { left: 34.750em; }
+#retired { left: 43.750em; }
 
-#retiredh { left: 32.000em; } */
+#retiredh { left: 43.750em; }
