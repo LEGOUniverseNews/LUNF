@@ -7,9 +7,10 @@ width: 62.500em;
 height: 37.500em; 
 position: relative; 
 padding: 3.125em;
-/* background-color: #ffffff;  */
+/* background-color: #CADCEB;  */
+background-color: #ffffff; 
 /* Originally hosted at http://i13.servimg.com/u/f13/16/81/98/51/minifi10.png */
-background: #FFED40 url("http://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/F1_light_blue_flag.svg/512px-F1_light_blue_flag.svg.png"); 
+/* background: # url("http://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/F1_light_blue_flag.svg/512px-F1_light_blue_flag.svg.png");  */
 }
 
 #minifig { 
