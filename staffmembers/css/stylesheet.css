@@ -22,7 +22,7 @@ top: 6.250em;
 #staff h2 { 
 font-size:1.5em; 
 border-bottom: 5px solid black; 
-color: #634CE1; 
+color: #634CE1;
 }
 
 /* Shared Box Settings */
@@ -30,14 +30,18 @@ color: #634CE1;
 width: 8.500em;
 height: 8.500em;
 position: absolute;
-border: 0.438em solid #5E5E5E;
+/* border: 0.438em solid #5E5E5E; */
+border: 0.438em solid #2B2B2B;
 padding: 1.250em;
-border-radius: 1.250em;
+border-radius: 1.500em;
 font-size: 1em;
 font-weight: bold;
 text-align: center;
-color: blue;
-box-shadow: 0.438em 0.438em 0.438em black;
+/* color: blue; */
+/* box-shadow: 0.438em 0.438em 0.438em black; */
+color: #0415CD;
+/* box-shadow: 0.438em 0.438em 0.438em #F10509; */
+box-shadow: 0.438em 0.438em 0.438em #7963E9;
 top: 25%;
 }
 
@@ -52,19 +56,19 @@ h3 {
 width: 12.500em; 
 position: absolute; 
 /* color: #636363;  */
-color: #000000; 
+color: #2B2B2B; 
 }
 
 /* -- Individual Box Styling Code -- */
 
 #admin { left: 3.250em; }
 
-#adminh { left: 5.500em; }
+#adminh { left: 5.800em; }
 
 #mod { left: 19.000em; }
 
-#modh { left: 18.500em; }
+#modh { left: 19.200em; }
 
 #retired { left: 34.750em; }
 
-#retiredh { left: 30.750em; } */
+#retiredh { left: 32.000em; } */
