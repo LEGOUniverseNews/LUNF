@@ -13,18 +13,22 @@ padding: 3.125em;
 
 body { background-color: #00FF00; }
 
-img{
+#minifig { 
 position: relative; 
 left: 855px;
-top: 175px;
+top: 100px;
 }
 
 
-#staff h2 { font-size:1.5em; border-bottom: 5px solid black; color: blue; }
+#staff h2 { 
+font-size:1.5em; 
+border-bottom: 5px solid black; 
+color: blue; 
+}
 
 .box {
-width: 12.500em;
-height: 12.500em;
+width: 8.500em;
+height: 8.500em;
 position: absolute;
 border: 0.438em solid #5E5E5E;
 padding: 1.250em;
@@ -44,18 +48,21 @@ a { color: black; }
 a:hover { color: blue; }
 
 h3 {
-width: 12.500em; position: absolute; color: #636363; }
+width: 12.500em; 
+position: absolute; 
+color: #636363; 
+}
 
 /* -- Individual Styling Code -- */
 
 #admin { left: 6.250em; }
 
-#adminh { left: 6.250em; }
+#adminh { left: 8.500em; }
 
 #mod { left: 25.000em; }
 
-#modh { left: 25.000em; }
+#modh { left: 24.500em; }
 
 #retired { left: 43.750em; }
 
-#retiredh { left: 43.750em; }
+#retiredh { left: 39.750em; }
