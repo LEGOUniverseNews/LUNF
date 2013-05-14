@@ -1,5 +1,6 @@
-/*-- CSS Code and Design by Hobino, le717, and rioforce --*/
+/* /*-- CSS Code and Design by Hobino, le717, and rioforce --*/
 /*-- px to em conversion by http://pxtoem.com/ using 16px as base px size. --*/
+
 /*-- Overall Styling Code --*/
 #staff { 
 margin: 3.125em auto; 
@@ -10,21 +11,21 @@ padding: 3.125em;
 background-color: #ffffff; 
 }
 
+/* Minifigure image */
 #minifig { 
 position: relative; 
-/* left: 650px; */
 left: 40.625em;
-/* top: 100px; */
 top: 6.250em;
 }
 
-
+/* Staff Members header */
 #staff h2 { 
 font-size:1.5em; 
 border-bottom: 5px solid black; 
 color: #634CE1; 
 }
 
+/* Shared Box Settings */
 .box {
 width: 8.500em;
 height: 8.500em;
@@ -44,12 +45,14 @@ ul { text-align: left; }
 
 /*-- Link Stuff -- */
 a { color: black; text-decoration: none;}
-a:hover { color: blue; text-decoration: underline; }
+a:hover { color: #7058C0; text-decoration: underline; opacity: 0.8; }
 
+/* Box ID labels */
 h3 {
 width: 12.500em; 
 position: absolute; 
-color: #636363; 
+/* color: #636363;  */
+color: #000000; 
 }
 
 /* -- Individual Box Styling Code -- */
@@ -64,4 +67,4 @@ color: #636363;
 
 #retired { left: 34.750em; }
 
-#retiredh { left: 30.750em; }
+#retiredh { left: 30.750em; } */
