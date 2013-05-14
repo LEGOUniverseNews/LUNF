@@ -11,9 +11,7 @@ padding: 3.125em;
 /* background: #ffffff url("https://raw.github.com/rioforce/LUNF/gh-pages/staffmembers/images/minifig.png") no-repeat right bottom;  */
 }
 
-body {
-background-color: white;
-}
+body { background-color: #ffffff; }
 
 img{
 position: relative; 
