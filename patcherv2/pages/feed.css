@@ -1,20 +1,24 @@
-/* Nunito */
+/* Nunito font */
 @import url('http://fonts.googleapis.com/css?family=Nunito:700');
 
+/* Resize header font */
 a.gf-title {
 color: grey;
 font-family: 'Nunito';
 font-size: 1em;
 }
 
+/* Resize summary font */
 .gf-snippet{
 font-family: 'Nunito';
 font-size: 0.7em;
 color: white;
 }
-
 /* html {
 background-color: black; 
 } */
 
-.gf-spacer, .gf-author, .gf-relativePublishedDate { display: none !important; }
+/* Hide elements */
+.gfc-resultsHeader, .gf-spacer, .gf-author, .gf-relativePublishedDate { 
+display: none !important; 
+}
