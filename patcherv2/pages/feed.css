@@ -5,20 +5,21 @@
 a.gf-title {
 color: #C6C6C6;
 font-family: 'Nunito';
-font-size: 1em;
+font-size: 0.8em;
 }
 
 /* Resize summary font */
 .gf-snippet{
 font-family: 'Nunito';
-font-size: 0.7em;
+font-size: 0.6em;
 color: white;
 }
+
 /* html {
 background-color: black; 
 } */
 
 /* Hide elements */
-.gfc-resultsHeader, .gf-spacer, .gf-author, .gf-relativePublishedDate { 
+.gfc-resultsHeader, .gfc-resultsHeader, .gf-spacer, .gf-author, .gf-relativePublishedDate { 
 display: none !important; 
 }
