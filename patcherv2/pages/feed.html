@@ -24,6 +24,11 @@ Apache license (http://www.apache.org/licenses/LICENSE-2.0.html)
     
       // Add the feed
       feedControl.addFeed("http://www.thedailybrick.co.uk/blog/feed");
+      
+      // if more than one with a class
+      $("a.gf-title").each(function() {
+          $(this).attr("target","_blank");
+      });
     
       // Draw it
       feedControl.draw(document.getElementById("content"));
