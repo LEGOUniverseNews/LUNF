@@ -11,13 +11,15 @@ function OnLoad() {
   // Add two feeds.
   feedControl.addFeed("http://www.thedailybrick.co.uk/blog/feed");
 
+  // if more than one with a class
+  $("a.gf-title").each(function() {
+      $(this).attr("target","_blank");
+  });
+
   // Draw it.
   feedControl.draw(document.getElementById("content"));
 }
 
-// if more than one with a class
-$("a.gf-title").each(function() {
-    $(this).attr("target","_blank");
-});
+
 
 google.setOnLoadCallback(OnLoad);
